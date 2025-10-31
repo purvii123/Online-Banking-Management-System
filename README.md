@@ -23,7 +23,7 @@ This system provides a menu-driven interface with the following modules:
 - Command-line interface for user interaction
 🧱 Setup Instructions
 - Clone the repository
-git clone https://github.com/your-username/online-banking-management.git
+git clone https://github.com/purvii123/Online-Banking-Management-System
 cd online-banking-management
 - Set up the database
 - Run the SQL script to initialize the database:
